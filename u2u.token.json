@@ -1,0 +1,49 @@
+{
+  "name": "U2U Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png",
+  "keywords": [
+    "celo",
+    "tokens",
+    "refi"
+  ],
+  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "U2U",
+      "address": "0x1289AaF8912ce593f6A6C67EbDa075e6Eac06522",
+      "symbol": "U2U",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
+    },
+    {
+      "name": "2UT",
+      "address": "0x5Af0F40752C7558C8A999d9D6BFfe32192052402",
+      "symbol": "2UT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
+    },
+    {
+      "name": "U2U",
+      "address": "0x1289AaF8912ce593f6A6C67EbDa075e6Eac06522",
+      "symbol": "U2U",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
+    },
+    {
+      "name": "2UT",
+      "address": "0x5Af0F40752C7558C8A999d9D6BFfe32192052402",
+      "symbol": "2UT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
+    }   
+  ]
+}
