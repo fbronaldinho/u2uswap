@@ -7,11 +7,11 @@
   },
   "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png",
   "keywords": [
-    "celo",
+    "u2u",
     "tokens",
-    "refi"
+    "2ut"
   ],
-  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "timestamp": "2022-06-25T20:37:00.000+00:00",
   "tokens": [
     {
       "name": "U2U",
