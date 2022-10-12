@@ -34,6 +34,22 @@
       "address": "0x8AeEE2461C3379009cdC7cFaF4F2A2941f447151",
       "symbol": "U2U",
       "decimals": 18,
+      "chainId": 31337,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
+    },
+    {
+      "name": "2UT",
+      "address": "0x50e43aA5d942148d336b941622213a6D66aeD734",
+      "symbol": "2UT",
+      "decimals": 18,
+      "chainId": 31337,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
+    },
+    {
+      "name": "U2U",
+      "address": "0x8AeEE2461C3379009cdC7cFaF4F2A2941f447151",
+      "symbol": "U2U",
+      "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
     },
