@@ -15,18 +15,18 @@
   "tokens": [
     {
       "name": "U2U",
-      "address": "0x8AeEE2461C3379009cdC7cFaF4F2A2941f447151",
+      "address": "0x9116c55863dbA1961B49449377cDe21bE5552d8E",
       "symbol": "U2U",
       "decimals": 18,
-      "chainId": 31337,
+      "chainId": 5777,
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
     },
     {
       "name": "2UT",
-      "address": "0x50e43aA5d942148d336b941622213a6D66aeD734",
+      "address": "0xe921F1C231112303FCa84f276cca0f83dED3ccb5",
       "symbol": "2UT",
       "decimals": 18,
-      "chainId": 31337,
+      "chainId": 5777,
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
     },
     {
