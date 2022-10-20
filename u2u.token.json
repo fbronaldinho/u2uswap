@@ -30,6 +30,14 @@
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
     },
     {
+      "name": "U2U2",
+      "address": "0xB3942707d7Cc3C47Fca2Dcb5651639326F2D5165",
+      "symbol": "U2U2",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
+    },
+    {
       "name": "U2U",
       "address": "0x1289AaF8912ce593f6A6C67EbDa075e6Eac06522",
       "symbol": "U2U",
