@@ -11,11 +11,11 @@
     "tokens",
     "refi"
   ],
-  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "timestamp": "2022-05-26T20:37:00.000+00:00",
   "tokens": [
     {
       "name": "U2U",
-      "address": "0x1289AaF8912ce593f6A6C67EbDa075e6Eac06522",
+      "address": "0xA9EB386caC4f2EC686BE9C82424c232a5f28ae2f",
       "symbol": "U2U",
       "decimals": 18,
       "chainId": 97,
@@ -23,27 +23,11 @@
     },
     {
       "name": "2UT",
-      "address": "0x5Af0F40752C7558C8A999d9D6BFfe32192052402",
+      "address": "0x1B3F0E123ec5C2d20da8D8c9f7f6BDb255324fC5",
       "symbol": "2UT",
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
-    },
-    {
-      "name": "U2U2",
-      "address": "0xB3942707d7Cc3C47Fca2Dcb5651639326F2D5165",
-      "symbol": "U2U2",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
-    },
-    {
-      "name": "U2U3",
-      "address": "0x3A190a8d2e5df08048BAd8EB478938cE3Ee81454",
-      "symbol": "U2U3",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/u2u.png"
     },
     {
       "name": "U2U",
