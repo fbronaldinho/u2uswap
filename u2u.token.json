@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "U2U",
-      "address": "0xA9EB386caC4f2EC686BE9C82424c232a5f28ae2f",
+      "address": "0x1289AaF8912ce593f6A6C67EbDa075e6Eac06522",
       "symbol": "U2U",
       "decimals": 18,
       "chainId": 97,
@@ -23,7 +23,7 @@
     },
     {
       "name": "2UT",
-      "address": "0x1B3F0E123ec5C2d20da8D8c9f7f6BDb255324fC5",
+      "address": "0x5Af0F40752C7558C8A999d9D6BFfe32192052402",
       "symbol": "2UT",
       "decimals": 18,
       "chainId": 97,
