@@ -11,7 +11,7 @@
     "tokens",
     "refi"
   ],
-  "timestamp": "2022-09-26T20:37:00.000+00:00",
+  "timestamp": "2022-11-26T20:37:00.000+00:00",
   "tokens": [
     {
       "name": "U2U",
@@ -31,7 +31,7 @@
     },
     {
       "name": "U2U",
-      "address": "0xAC247b44c99224C0e2131b5097e4c4973e1B5b2E",
+      "address": "0xBF104790ee1837B11b2810f2F2416155d5972d0A",
       "symbol": "U2U",
       "decimals": 18,
       "chainId": 1,
@@ -39,11 +39,83 @@
     },
     {
       "name": "2UT",
-      "address": "0x0C83F8a711992E006D4eA799E850e56EF243ABAc",
+      "address": "0x5da88c5ed31a80aafcc87c1cd4dbb9c6a37fdff4",
       "symbol": "2UT",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/2ut.png"
+    },
+    {
+      "name": "NAD",
+      "address": "0x5F82e59B9cFE43B9573D8cd62f1B0dD49C53B757",
+      "symbol": "NAD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/nad-ico-c.png"
+    },
+    {
+      "name": "NMN",
+      "address": "0xb6321D610668c8521440A57e2Dfe31f277192cEb",
+      "symbol": "NMN",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/nmn-ico-c.png"
+    },
+    {
+      "name": "IBMS",
+      "address": "0x89da64593342F74834697087D81448126A330a39",
+      "symbol": "IBMS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/ibms-ico-c.png"
+    },
+    {
+      "name": "BUS",
+      "address": "0x86d6f41fF6BE8aeC5c9cE69Ea1FaA40D047764D9",
+      "symbol": "BUS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/bus-ico-c.png"
+    },
+    {
+      "name": "LFP",
+      "address": "0x730aA56d1b6935b3B51C5b8AA9C7CE19c6023474",
+      "symbol": "LFP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/lep-ico-c.png"
+    },
+    {
+      "name": "MNC",
+      "address": "0x03435853bA28c24d76f9A5962D8Fe04FD5dB8267",
+      "symbol": "MNC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/mnc-ico-c.png"
+    },
+    {
+      "name": "SIB",
+      "address": "0x9e07445f35De48c2466cf20B806EBeD60713b42f",
+      "symbol": "SIB",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/sib-ico-c.png"
+    },
+    {
+      "name": "MGS",
+      "address": "0xD29cb94512Ba32579a427a5ec15C9bEd2c6Bf19b",
+      "symbol": "MGS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/mgs-ico-c.png"
+    },
+    {
+      "name": "MMH",
+      "address": "0x99eDC9482E37564B250EE9cB2D4Bc8CCba8483EA",
+      "symbol": "MMH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/fbronaldinho/u2uswap/main/mmh-ico-c.png"
     }
   ]
 }
